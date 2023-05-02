@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = olivier.gabriel@atos.net
+	name = olivier gabriel
